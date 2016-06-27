@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+#Jake Johnson Summer 2016
+
+#This program uses a brute force method to find all permutations for digits 1-9
+#and all the answers to the vietnamese equation
+
 from multiprocessing.pool import Pool
 import time
 
