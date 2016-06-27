@@ -5,3 +5,5 @@ If I run the program all on one thread/process, it takes about 30 minutes on my 
 The program runs and then prints out all the permutations and answers to separate .txt files in the same directory.
 
 The program requires Python 3 and the Multiprocessing package (usually already included) for python.
+
+The ProcessAttempt.py file does not run I could not figure out how to get the Process class to work.  The puzzleSolver.py file does run and uses pools to do the multiprocessing.
